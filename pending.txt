@@ -1,0 +1,14 @@
+menampilkan menu sesuai session
+-> admin 	-> master barang
+		-> master harga
+		-> proses
+-> user		-> cart
+		-> profile
+
+pending proses
+-> save quantity di proses cart
+-> save addres
+-> pesan kembali saat status done
+-> form pendaftaran user bisnis
+-> atur schedule ketika user bisnis
+		
